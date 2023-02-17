@@ -1,4 +1,11 @@
-# Привет, меня зовут Александр
+# Всем привет :wave:
+
+Меня зовут Александр, я frontend разработчик в продуктовой компании [newswave](https://newswave.io/). Люблю чистый код, книги и пробежки на улице.
+
+## Для связи со мной
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Axesnk)](https://t.me/Axesnk)
+[![VK Badge](https://img.shields.io/badge/-VK-0077ff?style=flat&logo=VK&logoColor=white&link=https://vk.com/alexaxe)](https://vk.com/alexaxe)
+
 
 ## Мой стэк
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
