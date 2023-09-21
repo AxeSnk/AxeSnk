@@ -4,7 +4,7 @@
 
 ## Для связи со мной
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Axesnk)](https://t.me/Axesnk)
-[![Mail Badge](https://img.shields.io/badge/-mail-005BD1?style=flat&logo=mail.ru&logoColor=orange&link=https://mailto:alexanderaxenov@mail.ru)](https://mailto:alexanderaxenov@mail.ru)
+[![Mail Badge](https://img.shields.io/badge/-mail-005BD1?style=flat&logo=mail.ru&logoColor=orange&link=https://mailto:alexanderaxenov@mail.ru)](mailto:alexanderaxenov@mail.ru)
 
 
 ## Мой стэк
