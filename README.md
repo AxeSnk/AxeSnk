@@ -13,9 +13,3 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![MobX](https://img.shields.io/badge/-MobX-%23282C34?style=flat-square&logo=MobX)
-
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
