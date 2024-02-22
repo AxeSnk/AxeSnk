@@ -1,6 +1,6 @@
 # Всем привет :wave:
 
-Меня зовут Александр, я frontend разработчик в продуктовой компании [newswave](https://newswave.io/). Люблю чистый код, книги и пробежки на улице.
+Меня зовут Александр, я frontend разработчик. Люблю чистый код, книги и пробежки на улице.
 
 ## Для связи со мной
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Axesnk)](https://t.me/Axesnk)
