@@ -1,6 +1,6 @@
 # Всем привет :wave:
 
-Меня зовут Александр, я frontend разработчик. Люблю чистый код, книги и спортзал.
+Frontend developer with 6 years in the React ecosystem. Strengths — UI performance optimization (Core Web Vitals) and legacy code refactoring. I take tasks from mockup to production and keep an eye on code quality. I actively use modern AI tools to boost development efficiency: code generation automation, application performance optimization, and technical documentation creation.
 
 ## Для связи со мной
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Axesnk)](https://t.me/Axesnk)
